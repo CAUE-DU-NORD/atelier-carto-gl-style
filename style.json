@@ -1,0 +1,14 @@
+{
+  "version": 8,
+  "metadata": {},
+  "sources": {
+    "plan_ign": {
+      "type": "vector",
+      "url": "https://wxs.ign.fr/cartes/geoportail/tms/1.0.0/PLAN.IGN/metadata.json"
+    }
+  },
+  "sprite": "https://wxs.ign.fr/static/vectorTiles/styles/PLAN.IGN/sprite/PlanIgn",
+  "glyphs": "https://wxs.ign.fr/static/vectorTiles/fonts/{fontstack}/{range}.pbf",
+  "layers": [],
+  "id": "Atelier carto"
+}
