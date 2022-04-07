@@ -10,5 +10,5 @@
   "sprite": "https://wxs.ign.fr/static/vectorTiles/styles/PLAN.IGN/sprite/PlanIgn",
   "glyphs": "https://wxs.ign.fr/static/vectorTiles/fonts/{fontstack}/{range}.pbf",
   "layers": [],
-  "id": "Atelier carto"
+  "id": "Atelier carto Maplibre Style"
 }
